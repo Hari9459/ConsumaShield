@@ -1,7 +1,7 @@
 # ConsumaShield: End-to-End Data Engineering System
 This project is a real-time data engineering pipeline designed to collect, process, and store public consumer product recall data. It uses Kafka, Airflow, Spark, Postgres, and Docker. 
 
-A step by step guide to run this pipeline: https://medium.com/@hamzagharbi_19502/end-to-end-data-engineering-system-on-real-data-with-kafka-spark-airflow-postgres-and-docker-a70e18df4090
+
 
 ## Overview
 
